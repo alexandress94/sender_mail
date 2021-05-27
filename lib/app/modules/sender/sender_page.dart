@@ -6,7 +6,6 @@ import 'package:sender_mail/app/theme/app_text_theme.dart';
 class SenderPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    // final _senderController = Get.find<SenderController>();
     return Scaffold(
       body: Center(
         child: GetBuilder<SenderController>(
