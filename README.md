@@ -1,6 +1,8 @@
 # sender_mail
 
-A new Flutter project.
+# Markdown Sobre o projeto
+
+- Configuração do SMTP para envio de mensagem por e-mail.
 
 ## Getting Started
 
