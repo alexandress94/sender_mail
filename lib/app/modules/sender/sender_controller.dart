@@ -8,13 +8,13 @@ class SenderController extends GetxController {
   final email = new Email();
 
   void sendEmail() async {
-    bool result = await email.sendMessage(
-      message: "Menssagem para o destinatário",
-      addressee: "email do destinatário",
+    await email.sendMessage(
+      message: "Menssagem para o destinatário ",
+      addressee: "/*E-mail do destinatário fica aqui*/",
       subject: "Assunto do e-mail",
     );
     // Verificando o resultado
-    _status = result ? 'Enviado' : 'Não enviado';
+    _status = email.isSend ? 'Enviado' : 'Não enviado';
 
     Get.snackbar(
       'Status',
