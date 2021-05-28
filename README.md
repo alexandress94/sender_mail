@@ -1,8 +1,8 @@
 # sender_mail
 
-# Markdown Sobre o projeto
+# Sobre o projeto
 
-- Configuração do SMTP para envio de mensagem por e-mail.
+- Configuração do SMTP para envio de mensagem por e-mail utilizando Getx como gerenciamento de rotas, gerenciamento de estados e utilizando arquitetura Getx Patterns. 
 
 ## Getting Started
 
