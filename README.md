@@ -15,7 +15,7 @@ Getx:
 
 - <https://pub.dev/packages/get#:~:text=GetX%20is%20an%20extra-light%20and%20powerful%20solution%20for,resources%20in%20the%20library%3A%20PRODUCTIVITY%2C%20PERFORMANCE%20AND%20ORGANIZATION.>
 
-Mail:
+Mailer:
 - <https://pub.dev/packages/mailer>
 
 # Configurações necessárias.
