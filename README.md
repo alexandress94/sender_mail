@@ -5,7 +5,7 @@
 - Configuração do SMTP para envio de mensagem por e-mail utilizando Getx como gerenciamento de rotas, gerenciamento de estados e utilizando arquitetura Getx Patterns. 
 
 # Para que serve este projeto?
-- Este é um projeto pessoal, para configuração de smtp e envio simples de e-mail com o objetivo de explorar a documentação Getx_Pattern e das dependências Getx e Mail
+- Este é um projeto pessoal para configuração de smtp e envio simples de e-mail utilizando a dependência Mailer, foi implementado arquitetura Getx_Pattern seguindo um padrão de projeto para organizar melhor a estrutura. Utilizado o gerenciamento de rotas e controle de estado com Getx.
 
 Getx_pattern:
 
@@ -38,3 +38,5 @@ class ConfigSmtp {
     ); 
 ```
 <https://github.com/alexandress94/sender_mail/blob/master/lib/app/modules/sender/sender_controller.dart>
+
+# FIM.
